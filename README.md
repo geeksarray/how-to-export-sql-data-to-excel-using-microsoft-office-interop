@@ -6,7 +6,7 @@ For this tutorial we have to add reference to Microsoft.Interop.Office.Excel for
 
 ## Files
 
-1. **ExportProductsToExcel//Program.cs** has all required code to read to data from SQL server and convert it to excel using Microsoft.Interop.Office.Excel.
+1. **ExportProductsToExcel/Program.cs** has all required code to read to data from SQL server and convert it to excel using Microsoft.Interop.Office.Excel.
 
 Once you implement this your excel will be like
 
